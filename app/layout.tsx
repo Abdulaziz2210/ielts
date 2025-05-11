@@ -10,6 +10,10 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Dream Zone IELTS",
   description: "IELTS preparation platform by Dream Zone",
+  icons: {
+    icon: "/dreamzone.png",
+    apple: "/dreamzone.png",
+  },
     generator: 'v0.dev'
 }
 
